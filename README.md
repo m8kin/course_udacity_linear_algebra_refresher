@@ -1,1 +1,1 @@
-# course_udacity_linear_algebra_refresher
+# This is for the course Linear Algebra Refresher
